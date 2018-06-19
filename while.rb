@@ -3,4 +3,4 @@ def using_while
   counter > log10
   puts "Wingardium Leviosa" 
 counter= counter + 1 
-puts
+puts #{counter}
