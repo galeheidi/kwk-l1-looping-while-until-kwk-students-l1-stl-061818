@@ -1,3 +1,5 @@
 def using_while 
   counter= 0 
-  puts "Wingardium Leviosa"
+  counter > log10
+  puts "Wingardium Leviosa" 
+  
