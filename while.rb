@@ -5,5 +5,5 @@ def using_while
 counter= counter + 1 
 puts #{counter} move(s) completed 
 end 
-end-of-input
+end
 using_while 
