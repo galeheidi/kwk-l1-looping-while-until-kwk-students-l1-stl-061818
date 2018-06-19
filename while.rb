@@ -1,6 +1,6 @@
 def using_while 
   counter= 0 
-  counter > l
+  while counter > l0 
   puts "Wingardium Leviosa" 
 counter= counter + 1 
 puts #{counter} move(s) completed 
