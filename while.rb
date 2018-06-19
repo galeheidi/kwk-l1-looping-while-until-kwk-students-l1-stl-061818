@@ -6,3 +6,4 @@ counter= counter + 1
 puts #{counter} move(s) completed 
 end 
 end 
+using_while 
